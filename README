@@ -1,0 +1,3 @@
+My source code for part 1 is mnistforbeginners.py, deepmnistforexperts.py, and mnist_with_summaries.py.
+
+My source code for part 2 is part2.py. My graph involves 4 hidden layers and a dropout layer.

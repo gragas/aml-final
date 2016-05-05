@@ -1,3 +1,9 @@
 My source code for part 1 is mnistforbeginners.py, deepmnistforexperts.py, and mnist_with_summaries.py.
 
-My source code for part 2 is part2.py. My graph involves 4 hidden layers and a dropout layer.
+My source code for part 2 is part2.py. I augmented the graph to include 4 hidden layers and a dropout layer. It has comparable accuracy to part 1.
+
+My source code for part 3 is located in cifar/. Every .py file in that directory (except part4.py) relates to this part. I only ran this for 2000 batches since I wanted to dedicate more time to part 4.
+
+My source code for part 4 is cifar/part4.py. I augmented the graph so that it includes 3 convolution layers. It's accuracy is comparable to part 3 for the first 2000 batches.
+
+My images for parts 1, 2, 3, and 4 are labeled part1.png, part2.png, part3.png, and part4.png, respectively.
